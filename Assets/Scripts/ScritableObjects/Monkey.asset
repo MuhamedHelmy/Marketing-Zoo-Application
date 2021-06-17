@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f4b4605fee6f3ba45a7a54e47d81cd28, type: 3}
+  m_Name: Monkey
+  m_EditorClassIdentifier: 
+  title: Monkey
+  description: 'MONKEY IS A COMMON NAME THAT MAY REFER TO CERTAIN GROUPS OR SPECIES
+    OF SIMIAN MAMMALS OF INFRAORDER SIMIIFORMES. THE TERM IS APPLIED DESCRIPTIVELY
+    TO GROUPS OF PRIMATES, SUCH AS FAMILIES OF NEW WORLD MONKEYS AND OLD WORLD MONKEYS '
+  smalldesc: MONKEY BRAINS ARE EATEN AS A DELICACY IN PARTS OF SOUTH ASIA, AFRICA
+    AND CHINA. MONKEYS ARE SOMETIMES EATEN IN PARTS OF AFRICA, WHERE THEY CAN BE
+    SOLD AS "BUSHMEAT".
+  icon: {fileID: 21300000, guid: 3dd1d2bc0c548de4cbea5308fe3791ec, type: 3}

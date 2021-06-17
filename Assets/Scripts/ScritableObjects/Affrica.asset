@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f4b4605fee6f3ba45a7a54e47d81cd28, type: 3}
+  m_Name: Affrica
+  m_EditorClassIdentifier: 
+  title: Giraffe
+  description: 'GIRAFFES ARE THE TALLEST ANIMALS IN THE WORLED THEY LOOKS BEATTIFUL
+    AND THE EAT GRASS AND TRESS THEY ARE LIVE IN JUNGLES IN AFFRICA  '
+  smalldesc: ALTHOUGH GENERALLY QUIET AND NON-VOCAL, GIRAFFES HAVE BEEN HEARD TO
+    COMMUNICATE USING SNORTS, SNEEZES, COUGHS, SNORES, HISSES, BURSTS, MOANS, GRUNTS
+    AND FLUTE-LIKE SOUNDS..
+  icon: {fileID: 21300000, guid: 1bcea4ad94e1bbd45bcdb8a6aeaa9ab9, type: 3}

@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f4b4605fee6f3ba45a7a54e47d81cd28, type: 3}
+  m_Name: big_Cats
+  m_EditorClassIdentifier: 
+  title: Lions
+  description: THE LION IS A MUSCULAR, DEEP-CHESTED CAT WITH A SHORT, ROUNDED HEAD,
+    A REDUCED NECK AND ROUND EARS. ITS FUR VARIES IN COLOUR FROM LIGHT BUFF TO SILVERY
+    GREY, YELLOWISH RED AND DARK BROWN
+  smalldesc: 'LION ARE THE MOST POWERFULL ANIMALS  THEY CAN  FEED ON ANY  THING ,
+    THEY CAN RUN FAST , FIGHT  FAST  WITHOUT FEAR  THEY LIVES IN CAVES AND ALSO CALLED
+    THE JUNGLES KINGS '
+  icon: {fileID: 21300000, guid: d8113462a844baa4f847dbfbc9bce42d, type: 3}
